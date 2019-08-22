@@ -1,0 +1,1 @@
+program converts the image to a lower size image by reducing the color bits and showing only most prominent bits
