@@ -1,0 +1,1 @@
+program can recognise digits
